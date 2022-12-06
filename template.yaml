@@ -7,8 +7,8 @@ metadata:
   tags:
     - recommended
     - typescript
-    - ReST
-    - Rise
+    - rest
+    - rise
 spec:
   owner: service@example.com
   type: service
