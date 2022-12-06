@@ -24,7 +24,7 @@ spec:
           title: Service Id
           type: string
           description: The name of the service, e.g. 'cancel-stop'
-        java_package_name:
+        service_name:
           title: Service Name
           type: string
           description: Must be the camel case verion of Service Id, e.g. 'CancelStop'
